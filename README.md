@@ -2,6 +2,7 @@
   <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/2aba3d6f-ca77-469c-bf4a-b2198cfa0fbc" alt="WP Protector Logo" width="200"/>
   <h1>WP Protector</h1>
   <p>Secure your WordPress content with advanced protection features</p>
+  
   [![WordPress Version](https://img.shields.io/badge/WordPress-5.2%2B-blue.svg)](https://wordpress.org/)
   [![PHP Version](https://img.shields.io/badge/PHP-7.2%2B-purple.svg)](https://php.net/)
   [![License](https://img.shields.io/badge/License-GPL%20v2-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
@@ -9,6 +10,7 @@
 
   [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Support](#support) • [Contributing](#contributing)
 </div>
+
 ---
 
 ## 🛡️ Protect Your Content Like Never Before
