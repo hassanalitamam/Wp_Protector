@@ -3,7 +3,7 @@
 
 WP Protector is a WordPress plugin designed to protect your content by disabling copy, right-click, and developer tools on specific pages and posts.
 
-![WP Protector Banner](https://example.com/images/wp-protector-banner.png)
+![WP Protector Banner](https://ibb.co/fntSWfQ)
 
 ## Table of Contents
 
