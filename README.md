@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![wp protector logo (1)](https://github.com/hassanalitamam/Wp_Protector/assets/119606428/1e3d6cf9-a873-4af7-b596-df82ce248d84)
-" alt="WP Protector Logo" width="200"/>
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/2aba3d6f-ca77-469c-bf4a-b2198cfa0fbc" alt="WP Protector Logo" width="200"/>
   <h1>WP Protector</h1>
   <p>Secure your WordPress content with advanced protection features</p>
   
