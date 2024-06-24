@@ -18,7 +18,7 @@
 WP Protector is a powerful WordPress plugin designed to safeguard your valuable content. With features to disable copying, right-clicking, and developer tools, you can ensure your intellectual property remains secure.
 
 <div align="center">
-  <img src="https://example.com/wp-protector-banner.png" alt="WP Protector Banner" width="800"/>
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/efe6adf7-1ea0-4198-a8cd-713176c80da7" width="800"/>
 </div>
 
 ## ✨ Features
