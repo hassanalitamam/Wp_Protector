@@ -1,117 +1,248 @@
-# WP Protector
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Styling for the entire README */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+    
+    /* Banner styling */
+    .banner {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
 
-WP Protector is a WordPress plugin designed to protect your content by disabling copy, right-click, and developer tools on specific pages and posts.
+    .banner img {
+      max-width: 100%;
+      height: auto;
+    }
 
-![Banner Wp Protector](https://github.com/hassanalitamam/Wp_Protector/assets/119606428/efe6adf7-1ea0-4198-a8cd-713176c80da7)
+    /* Table of Contents */
+    .toc {
+      background-color: #f9f9f9;
+      padding: 15px;
+      border: 1px solid #ddd;
+      margin-bottom: 20px;
+    }
 
-## Table of Contents
+    .toc h2 {
+      font-size: 1.5em;
+      margin-top: 0;
+    }
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Settings](#settings)
-- [Screenshots](#screenshots)
-- [Video Tutorials](#video-tutorials)
-- [Download](#download)
-- [Support](#support)
-- [Changelog](#changelog)
+    .toc ul {
+      list-style: none;
+      padding-left: 0;
+    }
 
-## Features
+    .toc ul li {
+      margin: 10px 0;
+    }
 
-- **Disable Copy:** Prevent users from copying content on your website.
-- **Disable Right-Click:** Prevent users from right-clicking on your website.
-- **Disable Developer Tools:** Prevent users from using developer tools to inspect your website's code.
-- **Customizable Settings:** Enable or disable protections globally or on specific pages and posts.
+    .toc ul li a {
+      text-decoration: none;
+      color: #0366d6;
+    }
 
-## Installation
+    /* Feature list */
+    .features {
+      padding: 15px;
+      background-color: #f5f5f5;
+      border: 1px solid #ddd;
+      margin-bottom: 20px;
+    }
 
-1. **Download**: Download the latest version of WP Protector from the [Download Link](#download).
-2. **Upload**: Go to your WordPress admin area and navigate to `Plugins` > `Add New`. Click on the `Upload Plugin` button and select the downloaded zip file.
-3. **Install**: Click `Install Now`.
-4. **Activate**: After installation, click on `Activate Plugin` to activate WP Protector.
+    .features h2 {
+      font-size: 1.5em;
+      margin-top: 0;
+    }
 
-Alternatively, you can install the plugin via FTP:
+    .features ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
 
-1. Extract the wp-protector.zip file.
-2. Upload the `wp-protector` folder to the `/wp-content/plugins/` directory.
-3. Activate the plugin through the `Plugins` menu in WordPress.
+    /* Section Headers */
+    h2 {
+      color: #333;
+    }
 
-## Usage
+    /* Screenshots */
+    .screenshots img {
+      border: 1px solid #ddd;
+      padding: 10px;
+      margin: 10px;
+      max-width: 100%;
+      height: auto;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
 
-After activating the plugin, you will see a new menu item called `WP Protector` in your WordPress admin menu. Follow these steps to configure and use the plugin:
+    /* Video Thumbnails */
+    .video-thumbnail {
+      border: 1px solid #ddd;
+      padding: 10px;
+      margin: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
 
-1. **Navigate to WP Protector**: Go to `WP Protector` in the admin menu.
-2. **Configure Settings**: Customize the plugin settings according to your preferences.
-3. **Save Changes**: Click on `Save Changes` to apply the settings.
+    /* Download and Support Links */
+    .download-link, .support-link {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px 0;
+      text-align: center;
+      text-decoration: none;
+      color: #fff;
+      background-color: #28a745;
+      border-radius: 5px;
+    }
 
-## Settings
+    .support-link {
+      background-color: #007bff;
+    }
 
-### General Settings
+    /* Code blocks */
+    code {
+      background-color: #f4f4f4;
+      border: 1px solid #ddd;
+      padding: 2px 5px;
+      border-radius: 3px;
+      font-family: Consolas, "Courier New", monospace;
+    }
 
-- **Disable Copy Everywhere**: Check this box to disable copy functionality across the entire site.
-- **Disable Right Click Everywhere**: Check this box to disable right-click functionality across the entire site.
-- **Disable Developer Tools Everywhere**: Check this box to disable developer tools across the entire site.
+    /* Notes */
+    .notes {
+      background-color: #fcf8e3;
+      border: 1px solid #faebcc;
+      padding: 15px;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="banner">
+    <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/efe6adf7-1ea0-4198-a8cd-713176c80da7" alt="Banner WP Protector">
+  </div>
 
-### Page-Specific Settings
+  <div class="toc">
+    <h2>Table of Contents</h2>
+    <ul>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#installation">Installation</a></li>
+      <li><a href="#usage">Usage</a></li>
+      <li><a href="#settings">Settings</a></li>
+      <li><a href="#screenshots">Screenshots</a></li>
+      <li><a href="#video-tutorials">Video Tutorials</a></li>
+      <li><a href="#download">Download</a></li>
+      <li><a href="#support">Support</a></li>
+      <li><a href="#changelog">Changelog</a></li>
+    </ul>
+  </div>
 
-- **Disable Copy on Specific Pages**: Select the pages where you want to disable the copy functionality.
-- **Disable Right Click on Specific Pages**: Select the pages where you want to disable the right-click functionality.
-- **Disable Developer Tools on Specific Pages**: Select the pages where you want to disable the developer tools.
+  <h2 id="features">Features</h2>
+  <div class="features">
+    <ul>
+      <li><strong>Disable Copy:</strong> Prevent users from copying content on your website.</li>
+      <li><strong>Disable Right-Click:</strong> Prevent users from right-clicking on your website.</li>
+      <li><strong>Disable Developer Tools:</strong> Prevent users from using developer tools to inspect your website's code.</li>
+      <li><strong>Customizable Settings:</strong> Enable or disable protections globally or on specific pages and posts.</li>
+      <li><strong>Selective Activation:</strong> Enable the plugin on specific pages or multiple pages, or on selected articles.</li>
+    </ul>
+  </div>
 
-### Post-Specific Settings
+  <h2 id="installation">Installation</h2>
+  <ol>
+    <li><strong>Download:</strong> Download the latest version of WP Protector from the <a href="#download">Download Link</a>.</li>
+    <li><strong>Upload:</strong> Go to your WordPress admin area and navigate to <code>Plugins > Add New</code>. Click on the <code>Upload Plugin</code> button and select the downloaded zip file.</li>
+    <li><strong>Install:</strong> Click <code>Install Now</code>.</li>
+    <li><strong>Activate:</strong> After installation, click on <code>Activate Plugin</code> to activate WP Protector.</li>
+  </ol>
 
-- **Disable Copy on Specific Posts**: Select the posts where you want to disable the copy functionality.
-- **Disable Right Click on Specific Posts**: Select the posts where you want to disable the right-click functionality.
-- **Disable Developer Tools on Specific Posts**: Select the posts where you want to disable the developer tools.
+  <p>Alternatively, you can install the plugin via FTP:</p>
+  <ol>
+    <li>Extract the wp-protector.zip file.</li>
+    <li>Upload the <code>wp-protector</code> folder to the <code>/wp-content/plugins/</code> directory.</li>
+    <li>Activate the plugin through the <code>Plugins</code> menu in WordPress.</li>
+  </ol>
 
-## Screenshots
+  <h2 id="usage">Usage</h2>
+  <ol>
+    <li><strong>Navigate to WP Protector:</strong> Go to <code>WP Protector</code> in the admin menu.</li>
+    <li><strong>Configure Settings:</strong> Customize the plugin settings according to your preferences.</li>
+    <li><strong>Save Changes:</strong> Click on <code>Save Changes</code> to apply the settings.</li>
+  </ol>
 
-Here are some screenshots showcasing the plugin's interface and functionality:
+  <h2 id="settings">Settings</h2>
+  <h3>General Settings</h3>
+  <ul>
+    <li><strong>Disable Copy Everywhere:</strong> Check this box to disable copy functionality across the entire site.</li>
+    <li><strong>Disable Right Click Everywhere:</strong> Check this box to disable right-click functionality across the entire site.</li>
+    <li><strong>Disable Developer Tools Everywhere:</strong> Check this box to disable developer tools across the entire site.</li>
+  </ul>
 
-![General Settings](https://example.com/images/wp-protector-settings.png)
-*General Settings Page*
+  <h3>Page-Specific Settings</h3>
+  <ul>
+    <li><strong>Disable Copy on Specific Pages:</strong> Select the pages where you want to disable the copy functionality.</li>
+    <li><strong>Disable Right Click on Specific Pages:</strong> Select the pages where you want to disable the right-click functionality.</li>
+    <li><strong>Disable Developer Tools on Specific Pages:</strong> Select the pages where you want to disable the developer tools.</li>
+  </ul>
 
-![Page Settings](https://example.com/images/wp-protector-page-settings.png)
-*Page-Specific Settings*
+  <h3>Post-Specific Settings</h3>
+  <ul>
+    <li><strong>Disable Copy on Specific Posts:</strong> Select the posts where you want to disable the copy functionality.</li>
+    <li><strong>Disable Right Click on Specific Posts:</strong> Select the posts where you want to disable the right-click functionality.</li>
+    <li><strong>Disable Developer Tools on Specific Posts:</strong> Select the posts where you want to disable the developer tools.</li>
+  </ul>
 
-![Post Settings](https://example.com/images/wp-protector-post-settings.png)
-*Post-Specific Settings*
+  <h2 id="screenshots">Screenshots</h2>
+  <div class="screenshots">
+    <img src="https://example.com/images/wp-protector-settings.png" alt="General Settings">
+    <p><em>General Settings Page</em></p>
 
-## Video Tutorials
+    <img src="https://example.com/images/wp-protector-page-settings.png" alt="Page-Specific Settings">
+    <p><em>Page-Specific Settings</em></p>
 
-Watch the following video tutorials to learn how to use WP Protector:
+    <img src="https://example.com/images/wp-protector-post-settings.png" alt="Post-Specific Settings">
+    <p><em>Post-Specific Settings</em></p>
+  </div>
 
-- [How to Install WP Protector](https://example.com/videos/install-wp-protector.mp4)
-  ![Install Video](https://example.com/images/install-video-thumbnail.png)
-
-- [How to Configure Settings](https://example.com/videos/configure-wp-protector.mp4)
-  ![Configure Video](https://example.com/images/configure-video-thumbnail.png)
-
-- [How to Use Page and Post Specific Settings](https://example.com/videos/use-wp-protector-settings.mp4)
-  ![Settings Video](https://example.com/images/settings-video-thumbnail.png)
-
-## Download
-
-You can download the latest version of WP Protector here:
-
-- [Download WP Protector](https://example.com/downloads/wp-protector.zip)
-
-## Support
-
-For support and troubleshooting, please visit our [support page](https://example.com/support) or contact us directly at support@example.com.
-
-## Changelog
-
-### 1.0.1
-
-- Initial release with basic protection features.
-
----
-
-## Additional Notes
-
-- **Compatibility**: Make sure your site runs on WordPress 5.2 or higher and PHP 7.2 or higher.
-- **Security**: Use this plugin responsibly. Disabling right-click and developer tools can frustrate legitimate users and is not a foolproof way to secure content.
-
-
-
+  <h2 id="video-tutorials">Video Tutorials</h2>
+  <div class="video-thumbnail">
+    <a href="https://example.com/videos/install-wp-protector.mp4"><img src="https://example.com/images/install-video-thumbnail.png" alt="Install Video"></
+        <p><strong>How to Install WP Protector</strong></p>
+    </div>
+    <div class="video-thumbnail">
+      <a href="https://example.com/videos/configure-wp-protector.mp4"><img src="https://example.com/images/configure-video-thumbnail.png" alt="Configure Video"></a>
+      <p><strong>How to Configure Settings</strong></p>
+    </div>
+    <div class="video-thumbnail">
+      <a href="https://example.com/videos/use-wp-protector-settings.mp4"><img src="https://example.com/images/settings-video-thumbnail.png" alt="Settings Video"></a>
+      <p><strong>How to Use Page and Post Specific Settings</strong></p>
+    </div>
+  
+    <h2 id="download">Download</h2>
+    <a class="download-link" href="https://example.com/downloads/wp-protector.zip">Download WP Protector</a>
+  
+    <h2 id="support">Support</h2>
+    <p>For support and troubleshooting, please visit our <a href="https://example.com/support">support page</a> or contact us directly at <a href="mailto:support@example.com">support@example.com</a>.</p>
+  
+    <h2 id="changelog">Changelog</h2>
+    <div class="notes">
+      <h3>1.0.1</h3>
+      <ul>
+        <li>Initial release with basic protection features.</li>
+      </ul>
+    </div>
+  
+    <h2 id="additional-notes">Additional Notes</h2>
+    <div class="notes">
+      <p><strong>Compatibility:</strong> Make sure your site runs on WordPress 5.2 or higher and PHP 7.2 or higher.</p>
+      <p><strong>Security:</strong> Use this plugin responsibly. Disabling right-click and developer tools can frustrate legitimate users and is not a foolproof way to secure content.</p>
+    </div>
+  </body>
+  </html>
+  
