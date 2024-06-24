@@ -9,7 +9,6 @@
 
   [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Support](#support) • [Contributing](#contributing)
 </div>
-
 ---
 
 ## 🛡️ Protect Your Content Like Never Before
