@@ -135,6 +135,6 @@ WP Protector is licensed under the GPL v2 or later. See the [LICENSE](LICENSE) f
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://yourcompany.com">Your Company</a></p>
-  <p>© 2023 Your Company Name. All rights reserved.</p>
+  <p>Made with ❤️ by <a href="https://yourcompany.com">Hassan Ali Tamam</a></p>
+  <p>© 2024 Your Hassan Ali Tamam. All rights reserved.</p>
 </div>
