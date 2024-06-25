@@ -20,7 +20,10 @@ WP Protector is a powerful WordPress plugin designed to safeguard your valuable 
 <div align="center">
   <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/efe6adf7-1ea0-4198-a8cd-713176c80da7" width="800"/>
 </div>
-
+###  Plugin Alarm
+<div align="center">
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Dashboard" width="100%"/>
+<div align="center">
 ## ✨ Features
 
 - 🚫 **Copy Protection**: Prevent unauthorized copying of your content
