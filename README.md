@@ -44,7 +44,7 @@ WP Protector is a powerful WordPress plugin designed to safeguard your valuable 
 
 ### Manual Installation
 
-1. Download the plugin from [our website](https://example.com/wp-protector.zip)
+1. Download the plugin from [our website](https://github.com/hassanalitamam/Wp_Protector/)
 2. Log in to your WordPress admin panel
 3. Go to "Plugins" → "Add New" → "Upload Plugin"
 4. Choose the downloaded file and click "Install Now"
@@ -53,7 +53,7 @@ WP Protector is a powerful WordPress plugin designed to safeguard your valuable 
 </details>
 
 <div align="center">
-  <a href="https://example.com/wp-protector.zip" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);">
+  <a href="https://www.dropbox.com/scl/fi/2koukzkkdyi7qqwajhoaj/content-protection.zip?rlkey=no68hx9hnwyilm5m5bnudwza7&st=d3eikn9m&dl=1" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);">
     ⬇️ Download WP Protector
   </a>
 </div>
@@ -95,7 +95,7 @@ After installation, follow these steps to start protecting your content:
 Plugin Alarm
 <div align="center">
   <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Dashboard" width="100%"/>
-<div align="center">
+</div>
 Plugin Alarm
 <div align="center">
   <img src="<div align="center">
