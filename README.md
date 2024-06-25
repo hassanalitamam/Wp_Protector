@@ -114,17 +114,17 @@ Plugin Alarm
 
 Need help? We're here for you!
 
-- 📚 Check out our [Documentation](https://example.com/docs)
-- 💬 Join our [Community Forum](https://example.com/forum)
-- 🎫 Open a [Support Ticket](https://example.com/support)
+- 📚 Check out our  [Documentation ( soon )](#)
+- 💬 Join our  [Community Forum ( soon )](#)
+- 🎫 Open a  [Support Ticket ( soon )](#)
 
 ## Contributing
 
 We welcome contributions to WP Protector! Here's how you can help:
 
-- [Report bugs](#)
+- [Report bugs](https://github.com/hassanalitamam/Wp_Protector/issues)
 - [Suggest new features](mailto:hsnnet963@gmail.com)
-- [Submit pull requests](#)
+- [Submit pull requests](https://github.com/hassanalitamam/Wp_Protector/pulls)
 
 Please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting any pull requests.
 
