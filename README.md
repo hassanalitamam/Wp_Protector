@@ -7,9 +7,17 @@
   [![PHP Version](https://img.shields.io/badge/PHP-7.2%2B-purple.svg)](https://php.net/)
   [![License](https://img.shields.io/badge/License-GPL%20v2-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
   [![Downloads](https://img.shields.io/badge/Downloads-1K%2B-brightgreen.svg)](https://example.com/wp-protector-stats)
-
-  [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Support](#support) • [Contributing](#contributing)
 </div>
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Support](#support)
+- [Contributing](#contributing)
+- [License](#license)
+- [Stay Updated](#stay-updated)
 
 ---
 
@@ -18,10 +26,10 @@
 WP Protector is a powerful WordPress plugin designed to safeguard your valuable content. With features to disable copying, right-clicking, and developer tools, you can ensure your intellectual property remains secure.
 
 <div align="center">
-  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/efe6adf7-1ea0-4198-a8cd-713176c80da7" width="800"/>
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/efe6adf7-1ea0-4198-a8cd-713176c80da7" alt="WP Protector Screenshot" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" width="800"/>
 </div>
 
-## ✨ Features
+## Features
 
 - 🚫 **Copy Protection**: Prevent unauthorized copying of your content
 - 🖱️ **Right-Click Disable**: Stop users from accessing context menus
@@ -30,7 +38,7 @@ WP Protector is a powerful WordPress plugin designed to safeguard your valuable 
 - 🔒 **Content Encryption**: Add an extra layer of security to your text (Pro version)
 - 📊 **Protection Analytics**: Track protection events and attempts (Pro version)
 
-## 🚀 Installation
+## Installation
 
 <details>
 <summary>Click to expand installation instructions</summary>
@@ -58,7 +66,7 @@ WP Protector is a powerful WordPress plugin designed to safeguard your valuable 
   </a>
 </div>
 
-## 🔧 Usage
+## Usage
 
 After installation, follow these steps to start protecting your content:
 
@@ -87,31 +95,19 @@ After installation, follow these steps to start protecting your content:
 
 </details>
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
-  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/c97889da-49d9-4f9c-bfe8-6413b016e0b1" alt="Dashboard" width="100%"/>
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/c97889da-49d9-4f9c-bfe8-6413b016e0b1" alt="Dashboard" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" width="100%"/>
 </div>
 Plugin Alarm
+
 <div align="center">
-  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Dashboard" width="100%"/>
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Plugin Alarm" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" width="100%"/>
 </div>
 Plugin Alarm
-<div align="center">
-  <img src="<div align="center">
-  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Dashboard" width="100%"/>
-</div>
-  
-## 🎥 Video Tutorial
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/EXAMPLE_VIDEO_ID/0.jpg" alt="WP Protector Tutorial" width="50%"/>
-  </a>
-  <p>Click to watch the tutorial on YouTube</p>
-</div>
-
-## 🆘 Support
+## Support
 
 Need help? We're here for you!
 
@@ -119,21 +115,21 @@ Need help? We're here for you!
 - 💬 Join our [Community Forum](https://example.com/forum)
 - 🎫 Open a [Support Ticket](https://example.com/support)
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to WP Protector! Here's how you can help:
 
 - [Report bugs](#)
-- [Suggest new features](mail:hsnnet963@gmail.com)
+- [Suggest new features](mailto:hsnnet963@gmail.com)
 - [Submit pull requests](#)
 
 Please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting any pull requests.
 
-## 📜 License
+## License
 
 WP Protector is licensed under the GPL v2 or later. See the [LICENSE](LICENSE) file for details.
 
-## 📣 Stay Updated
+## Stay Updated
 
 - [Subscribe to our newsletter](#)
 - Follow us on [Twitter](#)
