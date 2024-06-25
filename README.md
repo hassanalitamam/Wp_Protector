@@ -28,6 +28,11 @@ WP Protector is a powerful WordPress plugin designed to safeguard your valuable 
 <div align="center">
   <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/efe6adf7-1ea0-4198-a8cd-713176c80da7" alt="WP Protector Screenshot" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" width="800"/>
 </div>
+<div align="center">
+  <a href="https://www.dropbox.com/scl/fi/2koukzkkdyi7qqwajhoaj/content-protection.zip?rlkey=no68hx9hnwyilm5m5bnudwza7&st=d3eikn9m&dl=1" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);">
+    ⬇️ Download WP Protector
+  </a>
+</div>
 
 ## Features
 
