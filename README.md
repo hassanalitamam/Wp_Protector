@@ -90,10 +90,14 @@ After installation, follow these steps to start protecting your content:
 ## 📸 Screenshots
 
 <div align="center">
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/c97889da-49d9-4f9c-bfe8-6413b016e0b1" alt="Dashboard" width="100%"/>
+</div>
+<div align="center">
   <img src="https://example.com/wp-protector-screenshot1.png" alt="Dashboard" width="30%"/>
   <img src="https://example.com/wp-protector-screenshot2.png" alt="Settings Page" width="30%"/>
   <img src="https://example.com/wp-protector-screenshot3.png" alt="Protection in Action" width="30%"/>
 </div>
+
 
 ## 🎥 Video Tutorial
 
