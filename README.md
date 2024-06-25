@@ -100,7 +100,7 @@ Plugin Alarm
 <div align="center">
   <img src="<div align="center">
   <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Dashboard" width="100%"/>
-<div align="center">
+</div>
   
 ## 🎥 Video Tutorial
 
@@ -123,9 +123,9 @@ Need help? We're here for you!
 
 We welcome contributions to WP Protector! Here's how you can help:
 
-- [Report bugs](https://example.com/issues)
-- [Suggest new features](https://example.com/feature-requests)
-- [Submit pull requests](https://example.com/pulls)
+- [Report bugs](#)
+- [Suggest new features](mail:hsnnet963@gmail.com)
+- [Submit pull requests](#)
 
 Please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting any pull requests.
 
@@ -135,13 +135,12 @@ WP Protector is licensed under the GPL v2 or later. See the [LICENSE](LICENSE) f
 
 ## 📣 Stay Updated
 
-- [Subscribe to our newsletter](https://example.com/newsletter)
-- Follow us on [Twitter](https://twitter.com/wpprotector)
-- Join our [Facebook Group](https://facebook.com/groups/wpprotector)
+- [Subscribe to our newsletter](#)
+- Follow us on [Twitter](#)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://yourcompany.com">Hassan Ali Tamam</a></p>
+  <p>Made with ❤️ by <a href="https://wa.me/201095890941">Hassan Ali Tamam</a></p>
   <p>© 2024 - Hassan Ali Tamam. All rights reserved.</p>
 </div>
