@@ -96,13 +96,12 @@ Plugin Alarm
 <div align="center">
   <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Dashboard" width="100%"/>
 <div align="center">
+Plugin Alarm
 <div align="center">
-  <img src="https://example.com/wp-protector-screenshot1.png" alt="Dashboard" width="30%"/>
-  <img src="https://example.com/wp-protector-screenshot2.png" alt="Settings Page" width="30%"/>
-  <img src="https://example.com/wp-protector-screenshot3.png" alt="Protection in Action" width="30%"/>
-</div>
-
-
+  <img src="<div align="center">
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Dashboard" width="100%"/>
+<div align="center">
+  
 ## 🎥 Video Tutorial
 
 <div align="center">
