@@ -106,6 +106,9 @@ Plugin Alarm
   <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e2066bc5-a505-42f1-890c-09bffb120e73" alt="Plugin Alarm" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" width="100%"/>
 </div>
 Plugin Alarm
+<div align="center">
+  <img src="https://github.com/hassanalitamam/Wp_Protector/assets/119606428/e593a85f-3a79-4a33-9984-82afef15c864" alt="Plugin Alarm" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" width="100%"/>
+</div>
 
 ## Support
 
