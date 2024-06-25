@@ -87,11 +87,6 @@ After installation, follow these steps to start protecting your content:
 - Override global settings for individual pages or posts
 - Set custom protection messages
 
-### Advanced Options (Pro)
-
-- Configure content encryption strength
-- Set up email alerts for protection events
-- Customize the look and feel of protection notices
 
 </details>
 
